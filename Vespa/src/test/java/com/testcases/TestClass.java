@@ -28,8 +28,15 @@ public class TestClass {
 		public void TestThree() {
 			Assert.assertTrue(true);
 			System.out.print("Assertions passedd");
+			System.out.print("Test Three done");
 			
 			
+		}@Test
+		public void TestFour() {
+			Assert.assertTrue(true);
+			System.out.print("Assertions passedd");
+			
+			System.out.print("Test four done");
 			
 		}
 	
